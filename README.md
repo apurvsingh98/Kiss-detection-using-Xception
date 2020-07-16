@@ -1,7 +1,7 @@
 # Kiss-detection-using-Xception
 This repository contains a basic implementation Xception used for detecting Kiss in an image.
 
-    *It uses transefer learning by using the pretrained Keras's Xception treained on imagenet dataset.
+        *It uses transefer learning by using the pretrained Keras's Xception treained on imagenet dataset.
 The repository contains two ipynb notebooks explaining each steps for training your own model and then testing it.
 
 Personal opinions on training the model
