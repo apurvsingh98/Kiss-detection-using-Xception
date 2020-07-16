@@ -5,6 +5,7 @@ This repository contains a basic implementation Xception used for detecting Kiss
 The repository contains two ipynb notebooks explaining each steps for training your own model and then testing it.
 
 Personal opinions on training the model
+
         *Run the model notebook preferebly on a gpu (I use colab for my experimentation).
         *Different hyperparameters can be used and tweaked for achieving the best accuracy.
         *I have used Adam optimizer with an intitial learning rate of 0.001 and later reduced it as the accuracy hit the plateau.
